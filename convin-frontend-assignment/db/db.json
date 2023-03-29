@@ -4,24 +4,34 @@
       "cardName": "chess",
       "mp3Link": "https://www.youtube.com/embed/t4KqvGXtsdQ",
       "id": 1
+    },
+    {
+      "cardName": "Tennis",
+      "mp3Link": "https://www.youtube.com/embed/rN_NUTidL-I",
+      "id": 2
     }
   ],
   "entertainmentData": [
     {
-      "cardName": "chess",
-      "mp3Link": "https://www.youtube.com/embed/t4KqvGXtsdQ",
+      "cardName": "Tom and Jerry",
+      "mp3Link": "https://www.youtube.com/embed/t0Q2otsqC4I",
       "id": 1
+    },
+    {
+      "cardName": "Narnia",
+      "mp3Link": "https://www.youtube.com/embed/k6qbJZ0Rz4o",
+      "id": 2
     }
   ],
   "educationData": [
     {
       "id": 1,
       "cardName": "Python",
-      "mp3Link": "https://youtu.be/kqtD5dpn9C8"
+      "mp3Link": "https://www.youtube.com/embed/kqtD5dpn9C8"
     },
     {
-      "cardName": "Computer Science",
-      "mp3Link": "https://youtu.be/BGTx91t8q50",
+      "cardName": "Java course for Beginners",
+      "mp3Link": "https://www.youtube.com/embed/BGTx91t8q50",
       "id": 2
     }
   ],
@@ -29,22 +39,13 @@
     {
       "id": 1,
       "cardName": "Python",
-      "mp3Link": "https://youtu.be/kqtD5dpn9C8"
+      "mp3Link": "https://www.youtube.com/embed/kqtD5dpn9C8"
     },
     {
-      "id": 2,
-      "cardName": "Computer Science",
-      "mp3Link": "https://youtu.be/BGTx91t8q50"
-    },
-    {
-      "cardName": "chess",
-      "mp3Link": "https://www.youtube.com/embed/t4KqvGXtsdQ",
-      "id": 3
-    },
-    {
-      "cardName": "chess",
-      "mp3Link": "https://www.youtube.com/embed/t4KqvGXtsdQ",
-      "id": 4
+      "cardName": "Java course for Beginners",
+      "mp3Link": "https://www.youtube.com/embed/BGTx91t8q50",
+      "id": 2
     }
+    
   ]
 }
